@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+<h1>Portfolio Alura ONE</h1>
 
 <h2>🏷️ Sobre</h2>
 <p>Projeto construído com base nos cursos da especialização Front-End da Alura.</p>
